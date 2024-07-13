@@ -294,7 +294,6 @@ section .title::after {
 /*  About  */
 .about {
   background: radial-gradient(hsl(47, 100%, 96%), white);
-  height: 100vh;
 }
 .about .title::after {
   content: "—Who I Am ?—";
@@ -361,7 +360,6 @@ section .title::after {
 /*  Skills  */
 .skills {
   background: radial-gradient(#fff2e1, white);
-  height: 100vh;
 }
 .skills .title::after {
   content: "—What I Know ?—";
@@ -471,7 +469,6 @@ section .title::after {
 /*  Projects  */
 .projects {
   background: radial-gradient(#fff7e1, white);
-  height: 100vh;
 }
 .projects .hai a {
   display: inline-block;
@@ -580,7 +577,6 @@ section .title::after {
 /*  Contact  */
 .contact {
   background: radial-gradient(#fbfbfb, white);
-  height: 80vh;
 }
 
 .contact .title::after {
